@@ -1,0 +1,65 @@
+Progetto WebApp Brescia​
+
+	-Inizializzazione del progetto​
+
+		--Definizione degli Obiettivi del Progetto​
+
+		--Analisi dei Requisiti​
+
+		--Identificazione delle Parti Interessate​
+
+	-Pianificazione del progetto​
+
+		--Creazione del Pianificazione del Progetto​
+
+		--Ricerca delle Risorse​
+
+		--Definizione del Calendario del Progetto​
+
+	-Progettazzione​
+
+ 		--Progettazione dell'Interfaccia Utente (UI)​
+
+			---Creazione di Mockup​
+
+			---Creazione di Prototipi​
+
+		--Progettazione dell'Architettura del Frontend​
+
+			---Scelta del Framework (es. React, Angular, Vue.js)​
+
+			---Definizione delle Componenti Principali​
+		
+	-Sviluppo​
+
+		--Configurazione dell'Ambiente di Sviluppo​
+
+		--Implementazione delle Componenti Frontend​
+
+			---Header​
+
+			---Footer​
+
+			---Pagina Principale​
+
+			---Altre Pagine​
+
+ 		--Implementazione delle Funzionalità Interattive​
+
+			---Caricamento Dati Asincrono​
+
+			---Animazioni​
+
+	-Test​
+
+		--Testing Unitario delle Componenti​
+
+		--Testing delle Funzionalità Interattive​
+
+	-Chiusura del progetto​
+
+		--Produzione della Presentazione Finale​
+
+		--Consegna​
+
+		--Valutazione del Progetto​

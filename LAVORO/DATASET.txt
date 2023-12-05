@@ -1,0 +1,8 @@
+VARCHI:
+https://www.dati.lombardia.it/resource/jffv-3yqx.json
+
+HOTSPOT:
+https://www.dati.lombardia.it/resource/nkxw-x4xd.json
+
+ZTL:
+https://www.dati.lombardia.it/resource/ufkd-whtz.json

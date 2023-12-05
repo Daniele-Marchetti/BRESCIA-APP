@@ -1,0 +1,33 @@
+.header {
+    padding: 40px;
+    text-align: center;
+    background: rgb(127, 127, 127);
+    color: white;
+    font-size: 40px;
+}
+
+.titolo {
+    text-align: center;
+    font-family: 'Staatliches';
+
+    color: white;
+    
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 163, 255);
+}
+
+#map {
+    position: relative; /* Cambiato da absolute a relative */
+    display: flex;
+    flex-direction: column; /* Imposta la direzione flessibile a colonna */
+    justify-content: flex-end; /* Allinea il contenuto in fondo al contenitore */
+    align-items: center;
+    text-align: center;
+    height: 100vh; /* Imposta l'altezza al 100% della viewport */
+}
+  
+.centered-image {
+    display: block;
+    margin: auto;
+}
+
